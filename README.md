@@ -1,3 +1,1 @@
-# toy_ds_project
-
 Today's date: Oct 5 2023
